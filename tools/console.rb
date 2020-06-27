@@ -23,8 +23,8 @@ r2 = Ride.new(p1, d1, 100)
 r3 = Ride.new(p2, d2, 100)
 r4 = Ride.new(p3, d2, 100)
 r5 = Ride.new(p4, d3, 100)
-r6 = Ride.new(p5, d3, 10)
-r7 = Ride.new(p5, d5, 10)
+r6 = Ride.new(p5, d3, 100)
+r7 = Ride.new(p5, d5, 100)
 
 
 
